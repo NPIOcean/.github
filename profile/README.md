@@ -1,4 +1,4 @@
-# NPIOcean data
+# NPIOcean
 
 GitHub page for ``NPIOcean``, the Oceanography section of the [Norwegian Polar Institute](https://www.npolar.no/en/).
 
