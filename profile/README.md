@@ -4,4 +4,4 @@ GitHub page for ``NPIOcean``, the Oceanography section of the [Norwegian Polar I
 
 This is a place for sharing and developing code and documentation. 
 
-Initially mainly for internal use, but aiming to use this as a platform for sharing with the wider community.
+Includes open-source software modules (public) as well as working repositories (private). 
